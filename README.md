@@ -1,3 +1,6 @@
+> [!WARNING]
+> The tap is currently a work in progress and in preparation.
+
 # kmonad
 
 This is a homebrew tap for [kmonad](https://github.com/kmonad/kmonad).
